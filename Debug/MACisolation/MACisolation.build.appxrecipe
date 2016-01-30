@@ -9,49 +9,49 @@
     <SolutionConfiguration>Debug|Win32</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>897a87dc-5496-40ba-81e0-47dc4ccb8765</PackageIdentityName>
-    <IntermediateOutputPath>c:\Users\Program\documents\visual studio 2015\Projects\MACisolation\MACisolation\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>c:\Users\Program\Documents\Visual Studio 2015\Projects\MACisolation\MACisolation\Debug\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="c:\users\program\documents\visual studio 2015\Projects\MACisolation\Debug\MACisolation\AppxManifest.xml">
+    <AppXManifest Include="c:\Users\Program\Documents\Visual Studio 2015\Projects\MACisolation\Debug\MACisolation\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="c:\users\program\documents\visual studio 2015\Projects\MACisolation\Debug\MACisolation\MACisolation.exe">
+    <AppxPackagedFile Include="c:\Users\Program\Documents\Visual Studio 2015\Projects\MACisolation\Debug\MACisolation\MACisolation.exe">
       <PackagePath>MACisolation.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\program\documents\visual studio 2015\Projects\MACisolation\Debug\MACisolation\MACisolation.winmd">
+    <AppxPackagedFile Include="c:\Users\Program\Documents\Visual Studio 2015\Projects\MACisolation\Debug\MACisolation\MACisolation.winmd">
       <PackagePath>MACisolation.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Program\documents\visual studio 2015\Projects\MACisolation\MACisolation\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="c:\Users\Program\Documents\Visual Studio 2015\Projects\MACisolation\MACisolation\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Program\documents\visual studio 2015\Projects\MACisolation\MACisolation\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="c:\Users\Program\Documents\Visual Studio 2015\Projects\MACisolation\MACisolation\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Program\documents\visual studio 2015\Projects\MACisolation\MACisolation\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="c:\Users\Program\Documents\Visual Studio 2015\Projects\MACisolation\MACisolation\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Program\documents\visual studio 2015\Projects\MACisolation\MACisolation\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="c:\Users\Program\Documents\Visual Studio 2015\Projects\MACisolation\MACisolation\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Program\documents\visual studio 2015\Projects\MACisolation\MACisolation\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="c:\Users\Program\Documents\Visual Studio 2015\Projects\MACisolation\MACisolation\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Program\documents\visual studio 2015\Projects\MACisolation\MACisolation\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="c:\Users\Program\Documents\Visual Studio 2015\Projects\MACisolation\MACisolation\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Program\documents\visual studio 2015\Projects\MACisolation\MACisolation\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="c:\Users\Program\Documents\Visual Studio 2015\Projects\MACisolation\MACisolation\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\program\documents\visual studio 2015\Projects\MACisolation\Debug\MACisolation\resources.pri">
+    <AppxPackagedFile Include="c:\Users\Program\Documents\Visual Studio 2015\Projects\MACisolation\Debug\MACisolation\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

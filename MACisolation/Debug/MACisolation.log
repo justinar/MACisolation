@@ -1,11 +1,8 @@
-﻿  pch.cpp
-  App.xaml.cpp
-  MainPage.xaml.cpp
-  XamlTypeInfo.Impl.g.cpp
-  XamlTypeInfo.g.cpp
-     Creating library c:\users\program\documents\visual studio 2015\Projects\MACisolation\Debug\MACisolation\MACisolation.lib and object c:\users\program\documents\visual studio 2015\Projects\MACisolation\Debug\MACisolation\MACisolation.exp
-  MACisolation.vcxproj -> c:\users\program\documents\visual studio 2015\Projects\MACisolation\Debug\MACisolation\MACisolation.exe
-  MACisolation.vcxproj -> c:\users\program\documents\visual studio 2015\Projects\MACisolation\Debug\MACisolation\MACisolation.pdb (Partial PDB)
+﻿  Source.cpp
+c:\users\program\documents\visual studio 2015\projects\macisolation\macisolation\source.cpp(13): warning C4447: 'main' signature found without threading model. Consider using 'int main(Platform::Array<Platform::String^>^ args)'.
+     Creating library c:\Users\Program\Documents\Visual Studio 2015\Projects\MACisolation\Debug\MACisolation\MACisolation.lib and object c:\Users\Program\Documents\Visual Studio 2015\Projects\MACisolation\Debug\MACisolation\MACisolation.exp
+  MACisolation.vcxproj -> c:\Users\Program\Documents\Visual Studio 2015\Projects\MACisolation\Debug\MACisolation\MACisolation.exe
+  MACisolation.vcxproj -> c:\Users\Program\Documents\Visual Studio 2015\Projects\MACisolation\Debug\MACisolation\MACisolation.pdb (Partial PDB)
 C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v14.0\AppxPackage\Microsoft.AppXPackage.Targets(1854,5): warning APPX0106: Loading certificate file 'MACisolation_TemporaryKey.pfx' failed. Unspecified error
 C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v14.0\AppxPackage\Microsoft.AppXPackage.Targets(1854,5): warning APPX0106: 
 C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v14.0\AppxPackage\Microsoft.AppXPackage.Targets(1854,5): warning APPX0107: The certificate specified is not valid for signing. For more information about valid certificates, see http://go.microsoft.com/fwlink/?LinkID=241478.
