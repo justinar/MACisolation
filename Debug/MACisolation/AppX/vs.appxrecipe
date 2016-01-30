@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JARIVERA-LPT</Machine>
+    <WindowsUser>Program</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|Win32</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>897a87dc-5496-40ba-81e0-47dc4ccb8765</PackageIdentityName>
+    <IntermediateOutputPath>c:\Users\Program\documents\visual studio 2015\Projects\MACisolation\MACisolation\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>86A5F91C8F4407DCC6B541FA3FFF2097EBD0FB51B0FB114E620FBB8AB8431B1C</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>897a87dc-5496-40ba-81e0-47dc4ccb8765_1.0.0.0_x86__dk8se7gyfv40t</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>897a87dc-5496-40ba-81e0-47dc4ccb8765_dk8se7gyfv40t!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>897a87dc-5496-40ba-81e0-47dc4ccb8765</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Program</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\program\documents\visual studio 2015\Projects\MACisolation\Debug\MACisolation\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-30T18:41:53.484</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\program\documents\visual studio 2015\Projects\MACisolation\Debug\MACisolation\MACisolation.exe">
+      <PackagePath>MACisolation.exe</PackagePath>
+      <Modified>2016-01-30T18:41:51.609</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\program\documents\visual studio 2015\Projects\MACisolation\Debug\MACisolation\MACisolation.winmd">
+      <PackagePath>MACisolation.winmd</PackagePath>
+      <Modified>2016-01-30T18:41:48.456</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Program\documents\visual studio 2015\Projects\MACisolation\MACisolation\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-10-11T02:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Program\documents\visual studio 2015\Projects\MACisolation\MACisolation\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-11T02:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Program\documents\visual studio 2015\Projects\MACisolation\MACisolation\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-11T02:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Program\documents\visual studio 2015\Projects\MACisolation\MACisolation\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-11T02:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Program\documents\visual studio 2015\Projects\MACisolation\MACisolation\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-11T02:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Program\documents\visual studio 2015\Projects\MACisolation\MACisolation\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-11T02:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Program\documents\visual studio 2015\Projects\MACisolation\MACisolation\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-11T02:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\program\documents\visual studio 2015\Projects\MACisolation\Debug\MACisolation\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-01-30T18:41:53.109</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
